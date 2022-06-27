@@ -7,7 +7,7 @@
     <title>Coba Git Remoted</title>
 </head>
 <body>
-    <h1>Hello world
-    </h1>
+    <h1>Hello world</h1>
+    <h1>Lorem</h1>
 </body>
 </html>
